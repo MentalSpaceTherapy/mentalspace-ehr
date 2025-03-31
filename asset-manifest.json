@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mentalspace-ehr/static/css/main.03b3e4dc.css",
-    "main.js": "/mentalspace-ehr/static/js/main.edf80f7d.js",
+    "main.js": "/mentalspace-ehr/static/js/main.26754e73.js",
     "static/js/453.36fb2aac.chunk.js": "/mentalspace-ehr/static/js/453.36fb2aac.chunk.js",
     "index.html": "/mentalspace-ehr/index.html",
     "main.03b3e4dc.css.map": "/mentalspace-ehr/static/css/main.03b3e4dc.css.map",
-    "main.edf80f7d.js.map": "/mentalspace-ehr/static/js/main.edf80f7d.js.map",
+    "main.26754e73.js.map": "/mentalspace-ehr/static/js/main.26754e73.js.map",
     "453.36fb2aac.chunk.js.map": "/mentalspace-ehr/static/js/453.36fb2aac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03b3e4dc.css",
-    "static/js/main.edf80f7d.js"
+    "static/js/main.26754e73.js"
   ]
 }
