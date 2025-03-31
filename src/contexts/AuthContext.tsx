@@ -30,6 +30,7 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
 
   // Login function
   const login = async (email: string, password: string) => {
+    // @ts-ignore - Ignoring type issue with thunk action
     return dispatch(loginAction(email, password)) as unknown as Promise<boolean>;
   };
 
